@@ -16,7 +16,7 @@ This extension by default supports only few entities mentioned below
 
 Incase you need to have support for all the entities set below line in your civicrm.settings.php file
 
-define('MISSINGOPTIONVALUES_INLCUDE_ALL_CIVI_TABLES', TRUE);
+```define('MISSINGOPTIONVALUES_INLCUDE_ALL_CIVI_TABLES', TRUE);```
 
 ## Installation
 
